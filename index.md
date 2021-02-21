@@ -31,7 +31,7 @@
 * [Каталог в системе АБИС](https://lib.mos.ru/)
 * [Сводный каталог библиотек Москвы](http://skbm.nekrasovka.ru/wlib/)
 
-[**Новые поступления книг в январе-феврале 2021 в Google Таблицах**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxEAEGdHJa1S3Dc1IC_EhIl75tvQjZj5DjQP-kiCy7mYFcHelMADFNkJIL9qjeDVBMeZrSjUeyuJMY/pubhtml?gid=0&single=true) *(для поиска книг нажмите **Ctrl+F** или **"Найти на странице"** в меню браузера)*
+[Новые поступления книг в январе-феврале 2021 в Google Таблицах](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxEAEGdHJa1S3Dc1IC_EhIl75tvQjZj5DjQP-kiCy7mYFcHelMADFNkJIL9qjeDVBMeZrSjUeyuJMY/pubhtml?gid=0&single=true) *(для поиска книг нажмите **Ctrl+F** или **"Найти на странице"** в меню браузера)*
 
 Нашли нужную вам книгу? Напишите нам на электронную почту <mailto:129a@cbsuvao.ru>  и мы забронируем её для вас. 
 
