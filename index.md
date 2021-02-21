@@ -43,4 +43,4 @@
 * [Facebook](https://www.facebook.com/libuvao129) 
 * [OK](https://ok.ru/group/55535218196733)
 * [Instagram](https://www.instagram.com/lib_uvao_129/)
-* Адрес: Перерва, 56/2 (метро Братиславская)
+* Адрес: Перерва, 56/2 (метро Братиславская, выход №3)
