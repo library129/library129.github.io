@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## О нас
 
-You can use the [editor on GitHub](https://github.com/library129/library129.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+В библиотеке есть новые книги, коворкинг, семейная зона для чтения с детьми, компьютерный, выставочный и медиа залы.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ежегодно нас посещают более 45 тыс. читателей, здесь собираются молодежные организации, волонтерские объединения, проходят фестивали, лекции, встречи с известными деятелями культуры, а также концерты, квесты, выставки, игротека и многое другое.
 
-### MD
+Помимо бесплатных и платных активностей для детей, в медиацентре есть бесплатные и актуальные мероприятия для молодежи, взрослых людей и горожан пожилого возраста. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Все посетители могут записаться в библиотеку и получить **Единый читательский билет** и доступ в электронную библиотеку **["Литрес"](https://www.litres.ru/)** на абонементе библиотеки. *[Подробнее о получении доступа в Литрес: Библиотека.](https://www.litres.ru/litres-library/for-readers/)*
 
-```markdown
-Syntax highlighted code block
+Для записи в библиотеку достаточно представить паспорт или другой документ, удостоверяющий личность. Детей младше 14 лет записать в библиотеку можно только в присутствии законного представителя (родителя, опекуна, попечителя) и по его документам. *[Подробнее о записи в библиотеку.](https://www.mos.ru/otvet-kultura/kak-zapisatsya-v-biblioteku/)*
 
-# Header 1
-## Header 2
-### Header 3
+### Оплата копировальных и прочих услуг 
 
-- Bulleted
-- List
+Вы можете **[оплатить копировальные и прочие услуги перейдя по этой ссылке](https://iframeab-pre1551.intickets.ru/studio/venue/10762151)** 
 
-1. Numbered
-2. List
+### График работы
 
-**Bold** and _Italic_ and `Code` text
+День недели | Время
+------------|------
+Понедельник | **Выходной**
+Вторник-суббота | **10:00 - 22:00**
+Воскресение | **10:00 - 20:00**
 
-[Link](url) and ![Image](src)
-```
+***последний вторник месяца - санитарный день*** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Книги
 
-### JT
+Книжный фонд библиотеки насчитывает более 28 тысяч экземпляров. Для поиска книг вы можете воспользоваться следующими ресурсами: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/library129/library129.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Каталог в системе АБИС](https://lib.mos.ru/)
+* [Сводный каталог библиотек Москвы](http://skbm.nekrasovka.ru/wlib/)
 
-### Support or Contact
+[**Новые поступления книг в январе-феврале 2021 в Google Таблицах**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxEAEGdHJa1S3Dc1IC_EhIl75tvQjZj5DjQP-kiCy7mYFcHelMADFNkJIL9qjeDVBMeZrSjUeyuJMY/pubhtml?gid=0&single=true) *(для поиска книг нажмите **Ctrl+F** или **"Найти на странице"** в меню браузера)*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Нашли нужную вам книгу? Напишите нам на электронную почту <mailto:129a@cbsuvao.ru>  и мы забронируем её для вас. 
+
+### Контакты
+
+* Телефон: +7 (495) 345 21-00
+* Эл. почта: <mailto:129a@cbsuvao.ru>
+* [VK](https://vk.com/lib_uvao_129) 
+* [Facebook](https://www.facebook.com/libuvao129) 
+* [OK](https://ok.ru/group/55535218196733)
+* [Instagram](https://www.instagram.com/lib_uvao_129/)
+* Адрес: Перерва, 56/2 (метро Братиславская)
